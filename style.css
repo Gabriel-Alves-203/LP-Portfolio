@@ -1,0 +1,138 @@
+*{
+    font-family: 'Poppins';
+}
+
+div.cont{
+    padding: 50px 0px 50px 0px;
+
+}
+
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.cont{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+#CABEÇA-C-E{
+    text-decoration: underline;
+    /*margin-top: 20px;*/
+}
+
+#CABEÇA-C-D{
+    padding-top: 25px;
+    /*margin-bottom: 50px;*/
+    text-align: end;
+}
+
+#CABEÇA-C-D ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.sla{
+    text-decoration: none;
+}
+
+#CABEÇA-C-D li {
+    display: inline-block;
+    margin-left: 60px;
+    /*margin-top: 49px;*/
+}
+
+a{
+    color: black;
+}
+/*Cabeça Meio--------------------------------------*/
+
+#TEXTO h1{
+    font-size: 47px;
+}
+
+#btnC {
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: #1F7CFF;
+    color: #FFFFFF;
+    padding: 10px 25px 10px 25px;
+    text-decoration: none;
+}
+
+#MARIA {
+    width: 100%;
+    text-align: end;
+}
+/*
+#Cbm{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}*/
+/*Cabeça Fim----------------------------------------------------*/
+/*
+#Cbf{
+    padding: 50px 0px 50px 0px;
+}*/
+
+#cbfp{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #070F18;
+}
+
+.ico{
+    text-align: center;
+}
+/*---------------------------------------------------------------*/
+/*Meio(CIMA)*/
+
+#services{
+    text-align: center;
+}
+
+.red{
+    color: #F75C4E;
+}
+
+h1.black{
+    color: #000000;
+}
+
+.textcenter{
+    text-align: center;
+}
+
+/*-------------------------------------------------------------------*/
+/*Meio(Baixo)*/
+
+#TextoMF{
+    padding-left: 75px;
+}
+
+#email{
+    width:65%;
+    padding: 15px 25px 15px 25px;
+    border-radius: 50px;
+    background-color: #F5F6FB;
+    border: 0px;
+}
+
+#botão{
+    padding: 15px 35px 15px 35px;
+    background-color: #1F7CFF;
+    border-radius: 50px;
+    border: 0px;
+    color: #FFFFFF;
+}
+/*---------------------------------------------------------------*/
+
+#PF{
+    padding-bottom: 0%;
+}
